@@ -1,0 +1,432 @@
+[15-Dec-2024 19:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('anderson', 'b0e25b675724603...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:44:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('anderson', 'b0e25b675724603...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('celular88', 'b0e25b675724603...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:47:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('studio5', '86d115a47ac58c7...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('studio5', '86d115a47ac58c7...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 19:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:11
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Models/UsuariosModel.php(11): Query->select('SELECT * FROM u...')
+#1 /home/studio5/public_html/studio5_biblioteca/Controllers/Usuarios.php(59): UsuariosModel->getUsuario('admin', '8c6976e5b541041...')
+#2 /home/studio5/public_html/studio5_biblioteca/index.php(28): Usuarios->validar('')
+#3 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 11
+[15-Dec-2024 20:27:48 UTC] PHP Notice:  Undefined index: id_usuario in /home/studio5/public_html/studio5_biblioteca/Controllers/Prestamos.php on line 11
+[15-Dec-2024 20:27:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.nombre = 'Prestamos'' at line 1 in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:12
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/studio5/public_html/studio5_biblioteca/Models/PrestamosModel.php(81): Query->select('SELECT p.*, d.*...')
+#2 /home/studio5/public_html/studio5_biblioteca/Controllers/Prestamos.php(12): PrestamosModel->verificarPermisos(NULL, 'Prestamos')
+#3 /home/studio5/public_html/studio5_biblioteca/index.php(26): Prestamos->__construct()
+#4 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 12
+[15-Dec-2024 20:39:26 UTC] PHP Notice:  Undefined index: id_usuario in /home/studio5/public_html/studio5_biblioteca/Controllers/Configuracion.php on line 14
+[15-Dec-2024 20:39:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.nombre = 'Configuracion'' at line 1 in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:12
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/studio5/public_html/studio5_biblioteca/Models/ConfiguracionModel.php(54): Query->select('SELECT p.*, d.*...')
+#2 /home/studio5/public_html/studio5_biblioteca/Controllers/Configuracion.php(15): ConfiguracionModel->verificarPermisos(NULL, 'Configuracion')
+#3 /home/studio5/public_html/studio5_biblioteca/index.php(28): Configuracion->index('')
+#4 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 12
+[15-Dec-2024 20:39:35 UTC] PHP Notice:  Undefined index: id_usuario in /home/studio5/public_html/studio5_biblioteca/Controllers/Configuracion.php on line 14
+[15-Dec-2024 20:39:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.nombre = 'Configuracion'' at line 1 in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:12
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/studio5/public_html/studio5_biblioteca/Models/ConfiguracionModel.php(54): Query->select('SELECT p.*, d.*...')
+#2 /home/studio5/public_html/studio5_biblioteca/Controllers/Configuracion.php(15): ConfiguracionModel->verificarPermisos(NULL, 'Configuracion')
+#3 /home/studio5/public_html/studio5_biblioteca/index.php(28): Configuracion->index('')
+#4 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 12
+[15-Dec-2024 20:47:29 UTC] PHP Notice:  Undefined index: nombre in /home/studio5/public_html/studio5_biblioteca/Views/Templates/header.php on line 62
+[15-Dec-2024 20:47:29 UTC] PHP Notice:  Undefined index: usuario in /home/studio5/public_html/studio5_biblioteca/Views/Templates/header.php on line 63
+[15-Dec-2024 20:48:07 UTC] PHP Notice:  Undefined index: id_usuario in /home/studio5/public_html/studio5_biblioteca/Controllers/Estudiantes.php on line 11
+[15-Dec-2024 20:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.nombre = 'Estudiantes'' at line 1 in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:12
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/studio5/public_html/studio5_biblioteca/Models/EstudiantesModel.php(66): Query->select('SELECT p.*, d.*...')
+#2 /home/studio5/public_html/studio5_biblioteca/Controllers/Estudiantes.php(12): EstudiantesModel->verificarPermisos(NULL, 'Estudiantes')
+#3 /home/studio5/public_html/studio5_biblioteca/index.php(26): Estudiantes->__construct()
+#4 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 12
+[15-Dec-2024 20:51:07 UTC] PHP Notice:  Undefined index: id_usuario in /home/studio5/public_html/studio5_biblioteca/Controllers/Estudiantes.php on line 11
+[15-Dec-2024 20:51:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND p.nombre = 'Estudiantes'' at line 1 in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php:12
+Stack trace:
+#0 /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/studio5/public_html/studio5_biblioteca/Models/EstudiantesModel.php(66): Query->select('SELECT p.*, d.*...')
+#2 /home/studio5/public_html/studio5_biblioteca/Controllers/Estudiantes.php(12): EstudiantesModel->verificarPermisos(NULL, 'Estudiantes')
+#3 /home/studio5/public_html/studio5_biblioteca/index.php(26): Estudiantes->__construct()
+#4 {main}
+  thrown in /home/studio5/public_html/studio5_biblioteca/Config/App/Query.php on line 12
